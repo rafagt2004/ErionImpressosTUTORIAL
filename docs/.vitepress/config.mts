@@ -2,12 +2,15 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  head: [
+    ['link', { rel: 'icon', href: '/logo.svg' }]
+  ],
   lang: 'pt-BR',
-
   title: 'ErionImpressos Tutorial',
   description: 'Manual de treinamento e suporte do ErionImpressos',
 
   themeConfig: {
+    logo: '/logo.svg',
     nav: [
       { text: 'Início', link: '/' }
     ],

@@ -4,8 +4,6 @@ O **ErionImpressos** é um sistema completo para criação, edição e impressã
 
 Através dele, é possível criar modelos de etiquetas utilizando textos, códigos de barras, QR Codes e [variáveis](/variaveis) que são preenchidas automaticamente durante a impressão.
 
----
-
 ## Fluxo Básico de Utilização
 
 O funcionamento do sistema segue este fluxo simples de passos:
@@ -17,8 +15,6 @@ O funcionamento do sistema segue este fluxo simples de passos:
 5. Salvar o projeto.
 6. Lançar os itens para impressão.
 7. Realizar a impressão.
-
----
 
 ## Estrutura da Documentação
 

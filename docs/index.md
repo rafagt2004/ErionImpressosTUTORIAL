@@ -3,6 +3,9 @@
 layout: home
 
 hero:
+  image:
+    src: /logo.svg
+    alt: ErionImpressos
   name: "ErionImpressos"
   text: "Tutorial"
   tagline: Manual completo de utilização
