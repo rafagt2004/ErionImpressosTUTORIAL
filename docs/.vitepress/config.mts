@@ -37,6 +37,7 @@ export default defineConfig({
         text: 'Primeiros Passos',
         items: [
           { text: 'Tela Inicial', link: '/primeiros-passos/inicio' },
+          { text: 'Criar Etiqueta', link: '/primeiros-passos/criar' },
           { text: 'Modelos', link: '/primeiros-passos/modelos' },
           { text: 'Configurações', link: '/primeiros-passos/configuracoes' }
         ]
