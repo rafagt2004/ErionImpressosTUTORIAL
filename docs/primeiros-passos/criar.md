@@ -17,8 +17,6 @@ Esta é a tela inicial do modal. Ela oferece uma grade de cards com as dimensõe
 Basta dar **um clique sobre o card** com o tamanho desejado. O sistema configurará as dimensões e redirecionará direto para o **Editor**.
 :::
 
----
-
 ## 2. Aba: Personalizar
 
 Caso a sua etiqueta possua medidas específicas que não constam na listagem padrão, mude para a aba **Personalizar** no menu esquerdo do modal.

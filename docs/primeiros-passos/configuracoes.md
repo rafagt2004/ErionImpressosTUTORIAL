@@ -6,8 +6,6 @@ Este painel é dividido em duas abas principais: **Impressora** (para calibraç�
 
 ![Janela de Configurações - Impressora](/assets/config_impressora.png)
 
----
-
 ## 1. Aba Impressora
 
 Nesta seção, você define a comunicação com o seu hardware de impressão e a estrutura física do papel utilizado.
@@ -27,8 +25,6 @@ Nesta seção, você define a comunicação com o seu hardware de impressão e a
 Esta seção ajusta a distribuição das etiquetas na página para que a impressão saia perfeitamente alinhada:
 * **Colunas e Linhas:** Define a quantidade de etiquetas dispostas horizontal e verticalmente (ex: em uma folha A4).
 * **Margens da Página (mm):** Ajusta os limites de segurança (Superior, Inferior, Esquerda e Direita) para evitar que o conteúdo saia cortado.
-
----
 
 ## 2. Aba Geral
 
